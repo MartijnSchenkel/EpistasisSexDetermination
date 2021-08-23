@@ -3,7 +3,7 @@
 # ================== #
 Data repository associated with:
 
-Schenkel MA, Beukeboom LW & Pen I (2020). Epistatic interactions between sex chromosomes and 
+Schenkel MA, Beukeboom LW & Pen I ([YEAR]). Epistatic interactions between sex chromosomes and 
 autosomes can affect the stability of sex determination systems. [JOURNAL, VOLUME, PAGES, DOI]
 
 # ======== #
